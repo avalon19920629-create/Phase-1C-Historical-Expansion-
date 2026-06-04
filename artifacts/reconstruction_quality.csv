@@ -1,0 +1,4 @@
+date,constituent_count,expected_count,missing_count,duplicate_count,source_coverage,quality_flag,notes
+1900-01-01,not_reconstructed,500,unknown,0,none,unavailable,Before earliest event 2009-03-03; do not use current constituents as history.
+2009-03-03,not_reconstructed,500,unknown,0,selected_change_events,medium_for_event_history_only,"Change coverage exists from this date, but no full verified anchor snapshot is bundled."
+2026-01-14,not_reconstructed,500,unknown,0,selected_change_events,medium_for_event_history_only,Latest bundled selected-change event.

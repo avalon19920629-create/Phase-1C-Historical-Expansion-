@@ -1,0 +1,2 @@
+date,reconstructed_count,snapshot_count,overlap_count,missing_from_reconstruction,extra_in_reconstruction,quality_flag,notes
+not_available,not_available,not_available,not_available,not_available,not_available,not_available,No full public snapshot source was ingested by default in Phase 1C.
